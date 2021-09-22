@@ -6,7 +6,9 @@ This is a simple image to run https://github.com/mozilla/http-observatory in a c
 ## Usage 
 
 `docker run --rm famaridon/http-observatory:latest example.com --format report`
+
 output somthing like that 
+
 ```
 core: 0 [F]
 Modifiers:
